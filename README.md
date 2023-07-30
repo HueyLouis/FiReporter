@@ -1,4 +1,4 @@
-# PyFyReport
+# FiReport
 
 # README
 This Python script demonstrates how to train a linear regression model using scikit-learn library and generate financial reports based on the trained model.
